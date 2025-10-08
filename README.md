@@ -12,7 +12,7 @@ Optimize construction projects with end-to-end data analysis. From dummy data cr
 #### │   ├── faker_generate_data.ipynb
 #### │   ├── generated_data/
 #### │   │   ├── customers.csv
-#### |   |   ├── employees.csv
+#### │   │   ├── employees.csv
 #### │   │   ├── equipment.csv
 #### │   │   ├── internal_projects.csv
 #### │   │   ├── monthly_attendance.csv
@@ -31,7 +31,7 @@ Optimize construction projects with end-to-end data analysis. From dummy data cr
 #### │   ├── data_cleaning.sql
 #### │   ├── transformation/
 #### │   ├── customer_orders_summary.sql
-#### |   ├── customer_project_activity.sql
+#### │   ├── customer_project_activity.sql
 #### │   ├── employee_performance_summary.sql
 #### │   ├── supplier_risk_analysis.sql
 #### │   └── equipment_performance.sql
