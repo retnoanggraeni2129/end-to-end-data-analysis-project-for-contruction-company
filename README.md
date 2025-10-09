@@ -29,13 +29,12 @@ Optimize construction projects with end-to-end data analysis. From dummy data cr
 #### ├── 02_sql_etl/
 #### │   ├── create_tables.sql
 #### │   ├── ERD Construction Company.png
-#### │   ├── data_cleaning.sql
 #### │   ├── transformation/
-#### │   |   ├── customer_orders_summary.sql
-#### │   |   ├── customer_project_activity.sql
-#### │   |   ├── employee_performance_summary.sql
-#### │   |   ├── supplier_risk_analysis.sql
-#### │   └── equipment_performance.sql
+#### │       ├── customer_orders_summary.sql
+#### │       ├── customer_project_activity.sql
+#### │       ├── employee_performance_summary.sql
+#### │       ├── supplier_risk_analysis.sql
+#### │       └── equipment_performance.sql
 
 ### **Week 3 — Exploratory Data Analysis (EDA) & Visualization**
 
