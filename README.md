@@ -31,15 +31,15 @@ The main purpose of creating an end-to-end project mock-up for data engineers an
 
 ### **Week 2 — SQL ETL & Data Transformation**
 
-#### ├── 02_sql_etl/
-#### │   ├── create_tables.sql
-#### │   ├── ERD Construction Company.png
-#### │   ├── transformation/
-#### │       ├── customer_orders_summary.sql
-#### │       ├── customer_project_activity.sql
-#### │       ├── employee_performance_summary.sql
-#### │       ├── supplier_risk_analysis.sql
-#### │       └── equipment_performance.sql
+####├── 02_sql_etl/
+####│ ├── create_tables.sql
+####│ ├── ERD Construction Company.png
+####│ ├── transformation:  
+####│   ├── customer_orders_summary.sql
+####│   ├── customer_project_activity.sql
+####│   ├── employee_performance_summary.sql
+####│   ├── supplier_risk_analysis.sql
+####│   └── equipment_performance.sql
 
 ### **Week 3 — Exploratory Data Analysis (EDA) & Visualization**
 
