@@ -1,4 +1,4 @@
-# Endto End Data Analysis Project for Contruction Company 
+# End to End Data Analysis Project for Contruction Company 
 Optimize construction projects with end-to-end data analysis. From dummy data creation to analysis for better decision making. 
 
 ## Purpose
