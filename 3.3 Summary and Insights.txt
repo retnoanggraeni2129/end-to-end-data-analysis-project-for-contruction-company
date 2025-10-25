@@ -1,0 +1,30 @@
+🟦 1. Business Overview
+Active order season: August and December → Focus promotions and inventory during this period.
+Cancellation issues: September is a critical month → Investigate the causes (e.g., shipping delays or administrative errors).
+Sales opportunities: Bricks and Pipes items can be increased through discounts or bundling.
+Customer Retention: Strengthen relationships with major customers like PD Wacana and CV Utami (Persero) Tbk.
+Potential optimization: Increase conversions from high potential spend (July & December) to actual orders.
+
+🟩 2. Customer Segmentation
+The majority of customers still have high potential (80%), so marketing strategies can be focused on increasing conversion and retention.
+The 20% of at-risk customers need attention with reactivation campaigns.
+CV Utami (Persero) Tbk is the most active customer — a worthy role model for customer relationship strategies.
+Fluctuations in recency rates indicate that the best time to increase engagement is towards the end of the year.
+Use an RFM segmentation-based approach to personalize promotions and maintain the loyalty of high-value customers.
+
+🟨 3. Supplier Risk
+Insight and Recommendations:
+Supplier distribution is still concentrated in a few cities (Semarang & Surabaya) — diversification is needed to reduce supply chain risk.
+The supplier with the highest transaction volume (Perum Nasiyah Hastuti Tbk) plays a crucial role and should undergo regular risk monitoring.
+High-cost items (Nails, Bricks, Wood) have the potential to increase cost risk if not controlled.
+Cables and Bricks have a high cancellation rate, indicating delivery problems or specification discrepancies.
+A supplier performance evaluation based on RFM (Recency, Frequency, Monetary) is needed to identify risky suppliers and establish mitigation strategies.
+
+
+🟨 4. Employee Performance
+Insight and Recommendations:
+Salary distribution is quite wide, with potential disparities between roles. It is recommended to review the performance-based compensation system and project contributions.
+Project productivity declined significantly after 2021, requiring the company to re-optimize human resource capacity or expand new project lines.
+Employees with high attendance rates (Ella Widodo et al.) deserve awards or incentives to maintain motivation.
+Employees with high absenteeism (Usman Januar and others) need coaching, monitoring, or workload adjustments.
+It is recommended to create an Employee Performance Rate Index that combines Attendance, Project Contribution, and Salary Efficiency factors to objectively assess performance.
